@@ -62,8 +62,6 @@ section p {
 }
 
 
-
-
 /* Desktop Media */
 @media(min-width: 992px) {
 	.col-lg-3 {
@@ -76,7 +74,6 @@ section p {
 	}
 
 }
-
 
 /* Tablet Media */
 @media(min-width: 768px) and (max-width: 991px) {
