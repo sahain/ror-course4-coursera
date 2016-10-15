@@ -1,0 +1,43 @@
+
+#nav-list{
+	/*background-color: pink;*/
+}
+
+.navbar-collapse li :hover {
+/*	background-color: brown;
+	color: white;*/
+}
+
+header h1 {
+	font-size: 1.7em;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+
+#main section {
+	height: 1000px;
+	background-color: #aaa;
+	color: #111;
+}
+
+#main section h2 {
+	font-size: 1.3em;
+	font-weight: 600;
+	margin-top: 5px;
+}
+
+.row {
+	margin: 0;
+}
+
+.navbar-nav {
+	margin: 0 -15px;
+}
+
+.navbar-nav > li > a {
+	border-bottom: 1px solid #aaa;
+}
+
+.navbar-nav > li:first-child {
+	border-top: 1px solid #aaa;
+}
